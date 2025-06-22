@@ -2,6 +2,7 @@
 
 This project is a machine learning-based web application that predicts the likelihood of credit card approval for a customer based on their personal and financial details. It leverages a Random Forest Classifier trained on historical credit and application records.
 
+
 ---
 
 ## 🔍 Project Overview
@@ -12,6 +13,7 @@ The application offers:
 - A user-friendly web interface (built using Flask)
 - Real-time predictions
 - Visual insights into model performance
+
 
 ---
 
