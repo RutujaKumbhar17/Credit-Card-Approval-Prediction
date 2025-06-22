@@ -3,6 +3,7 @@
 ## 💼 Project Overview
 The *Credit Card Approval Prediction* project aims to develop a fair, ethical, and user-friendly machine learning-based application that predicts credit card or loan eligibility. This Code of Conduct outlines the standards for behavior expected from all participants.
 
+
 ---
 
 ## 👥 Our Pledge
@@ -64,6 +65,7 @@ All reports will be kept confidential and handled respectfully.
 Project maintainers have the right and responsibility to remove, edit, or reject contributions that violate this Code of Conduct. Repeat or severe violations may result in permanent bans from collaboration.
 
 ---
+ 
 
 ## 📝 Attribution
 
